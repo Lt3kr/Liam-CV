@@ -1,0 +1,18 @@
+.body{
+    background-image: src = "https://www.ettelva.se/app/uploads/2018/01/garbage-2729608_1920.jpg";
+    background-position: fixed;
+    background-repeat: no-repeat;
+}
+
+.container {
+    display: flex;
+    height: 300px;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+
+.item {
+    height: 14px;
+}
+
+.item-1{width: 20px;}
